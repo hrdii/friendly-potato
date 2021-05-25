@@ -5,34 +5,6 @@
     <link>https://hrdii.github.io/friendly-potato/tags/</link>
     <description>Recent content in Tags on My Cool New Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://hrdii.github.io/friendly-potato/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>plot</title>
-      <link>https://hrdii.github.io/friendly-potato/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://hrdii.github.io/friendly-potato/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://hrdii.github.io/friendly-potato/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://hrdii.github.io/friendly-potato/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>https://hrdii.github.io/friendly-potato/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://hrdii.github.io/friendly-potato/tags/regression/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://hrdii.github.io/friendly-potato/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
