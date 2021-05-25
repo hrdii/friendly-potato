@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hrdii.github.io/friendly-potato/sitemap.xml
