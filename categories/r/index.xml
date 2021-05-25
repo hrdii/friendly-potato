@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My Cool New Project</title>
-    <link>https://hrdii.github.io/friendly-potato/</link>
-    <description>Recent content on My Cool New Project</description>
+    <title>R on My Cool New Project</title>
+    <link>https://hrdii.github.io/friendly-potato/categories/r/</link>
+    <description>Recent content in R on My Cool New Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hrdii.github.io/friendly-potato/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://hrdii.github.io/friendly-potato/post/2021-05-24-hello-world/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hrdii.github.io/friendly-potato/post/2021-05-24-hello-world/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://hrdii.github.io/friendly-potato/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
       <link>https://hrdii.github.io/friendly-potato/post/2020-12-01-r-rmarkdown/</link>
